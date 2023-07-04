@@ -1,7 +1,5 @@
 # api-fake-store-react
 
-# FakeStore React App
-
 Este projeto é um aplicativo React que utiliza a FakeStore API para exibir produtos de uma loja fictícia.
 
 ## Funcionalidades
